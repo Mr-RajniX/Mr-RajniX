@@ -18,7 +18,6 @@
 <p align="center" style="font-weight:500;font-size:18px">
   Hi, I'm Rajnish Kr Yadav, an IT student from 
   <img src="https://em-content.zobj.net/thumbs/72/google/350/flag-india_1f1ee-1f1f3.png" width=20>INDIA....
-  <!-- <g-emoji class="g-emoji" alias="india" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png">🇮🇳</g-emoji> -->
   <br>
   <br>
   🔬 I'm currently studying for a bachelor's degree in Asansol Engineering College(2020-24)
